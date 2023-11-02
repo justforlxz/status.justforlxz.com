@@ -6,7 +6,7 @@ sites:
   - name: Misskey
     url: https://mkacg.social
   - name: Matrix
-    url: https://mkacg.chat
+    url: https://matrix.mkacg.chat
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
