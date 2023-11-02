@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.mkacg.chat.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "0.67%",
-    "uptimeDay": "0.67%",
-    "uptimeWeek": "0.67%",
-    "uptimeMonth": "0.67%",
-    "uptimeYear": "0.67%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1743,
     "timeDay": 1743,
     "timeWeek": 1743,
     "timeMonth": 1743,
     "timeYear": 1743,
-    "dailyMinutesDown": {
-      "2023-11-02": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
