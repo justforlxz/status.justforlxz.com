@@ -4,18 +4,19 @@
     "url": "https://mkacg.social",
     "icon": "https://icons.duckduckgo.com/ip3/mkacg.social.ico",
     "slug": "misskey",
-    "status": "up",
-    "uptime": "95.62%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.66%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "97.71%",
-    "uptimeYear": "95.62%",
-    "time": 721,
-    "timeDay": 377,
-    "timeWeek": 318,
-    "timeMonth": 401,
-    "timeYear": 721,
+    "uptimeYear": "95.66%",
+    "time": 720,
+    "timeDay": 328,
+    "timeWeek": 314,
+    "timeMonth": 400,
+    "timeYear": 720,
     "dailyMinutesDown": {
+      "2024-02-19": 0,
       "2024-02-15": 18,
       "2024-02-14": 74,
       "2024-02-13": 39,
@@ -60,8 +61,7 @@
       "2023-12-07": 150,
       "2023-12-06": 39,
       "2023-12-03": 28,
-      "2023-11-30": 238,
-      "2023-11-27": 66
+      "2023-11-30": 238
     }
   },
   {
@@ -69,17 +69,17 @@
     "url": "https://matrix.mkacg.chat",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.mkacg.chat.ico",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "94.56%",
-    "uptimeDay": "98.82%",
+    "status": "down",
+    "uptime": "94.58%",
+    "uptimeDay": "98.81%",
     "uptimeWeek": "98.54%",
     "uptimeMonth": "95.38%",
-    "uptimeYear": "94.56%",
-    "time": 1228,
-    "timeDay": 699,
-    "timeWeek": 693,
-    "timeMonth": 743,
-    "timeYear": 1228,
+    "uptimeYear": "94.58%",
+    "time": 1226,
+    "timeDay": 613,
+    "timeWeek": 680,
+    "timeMonth": 740,
+    "timeYear": 1226,
     "dailyMinutesDown": {
       "2024-02-19": 17,
       "2024-02-15": 18,
@@ -126,8 +126,7 @@
       "2023-12-09": 589,
       "2023-12-08": 17,
       "2023-12-07": 161,
-      "2023-12-06": 50,
-      "2023-12-05": 32
+      "2023-12-06": 50
     }
   }
 ]
