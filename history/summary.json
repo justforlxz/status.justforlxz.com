@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mkacg.social.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "95.65%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "95.65%",
-    "time": 719,
-    "timeDay": 319,
-    "timeWeek": 313,
-    "timeMonth": 399,
-    "timeYear": 719,
+    "uptime": "95.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "95.62%",
+    "time": 718,
+    "timeDay": 285,
+    "timeWeek": 296,
+    "timeMonth": 392,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2024-02-19": 14,
       "2024-02-15": 18,
       "2024-02-14": 74,
       "2024-02-13": 39,
@@ -61,7 +60,8 @@
       "2023-12-07": 150,
       "2023-12-06": 39,
       "2023-12-03": 28,
-      "2023-11-30": 238
+      "2023-11-30": 238,
+      "2023-11-27": 66
     }
   },
   {
@@ -70,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/matrix.mkacg.chat.ico",
     "slug": "matrix",
     "status": "up",
-    "uptime": "94.57%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "95.35%",
-    "uptimeYear": "94.57%",
-    "time": 1225,
-    "timeDay": 627,
-    "timeWeek": 681,
-    "timeMonth": 740,
-    "timeYear": 1225,
+    "uptime": "94.56%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "95.38%",
+    "uptimeYear": "94.56%",
+    "time": 1224,
+    "timeDay": 553,
+    "timeWeek": 665,
+    "timeMonth": 735,
+    "timeYear": 1224,
     "dailyMinutesDown": {
-      "2024-02-19": 31,
+      "2024-02-19": 17,
       "2024-02-15": 18,
       "2024-02-14": 74,
       "2024-02-13": 39,
@@ -126,7 +126,8 @@
       "2023-12-09": 589,
       "2023-12-08": 17,
       "2023-12-07": 161,
-      "2023-12-06": 50
+      "2023-12-06": 50,
+      "2023-12-05": 32
     }
   }
 ]
