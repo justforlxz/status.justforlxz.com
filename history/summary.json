@@ -7,8 +7,8 @@
     "status": "down",
     "uptime": "93.25%",
     "uptimeDay": "12.07%",
-    "uptimeWeek": "53.97%",
-    "uptimeMonth": "87.27%",
+    "uptimeWeek": "53.85%",
+    "uptimeMonth": "87.24%",
     "uptimeYear": "93.25%",
     "time": 722,
     "timeDay": 1081,
@@ -16,7 +16,7 @@
     "timeMonth": 409,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2024-02-26": 211,
+      "2024-02-26": 222,
       "2024-02-25": 1440,
       "2024-02-24": 573,
       "2024-02-22": 187,
@@ -73,16 +73,16 @@
     "url": "https://matrix.mkacg.chat",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.mkacg.chat.ico",
     "slug": "matrix",
-    "status": "up",
-    "uptime": "92.10%",
-    "uptimeDay": "12.08%",
+    "status": "down",
+    "uptime": "92.11%",
+    "uptimeDay": "12.85%",
     "uptimeWeek": "53.04%",
-    "uptimeMonth": "86.83%",
-    "uptimeYear": "92.10%",
+    "uptimeMonth": "86.82%",
+    "uptimeYear": "92.11%",
     "time": 1230,
-    "timeDay": 1179,
+    "timeDay": 1178,
     "timeWeek": 1193,
-    "timeMonth": 759,
+    "timeMonth": 761,
     "timeYear": 1230,
     "dailyMinutesDown": {
       "2024-02-26": 211,
@@ -135,7 +135,7 @@
       "2023-12-10": 200,
       "2023-12-09": 589,
       "2023-12-08": 17,
-      "2023-12-07": 129
+      "2023-12-07": 106
     }
   },
   {
@@ -143,18 +143,20 @@
     "url": "https://pan.mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/pan.mkacg.com.ico",
     "slug": "next-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 627,
-    "timeDay": 627,
-    "timeWeek": 627,
-    "timeMonth": 627,
-    "timeYear": 627,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 556,
+    "timeDay": 556,
+    "timeWeek": 556,
+    "timeMonth": 556,
+    "timeYear": 556,
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "S3",
@@ -173,7 +175,7 @@
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2024-02-26": 165
+      "2024-02-26": 176
     }
   },
   {
@@ -199,18 +201,20 @@
     "url": "https://bitwarden.mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.mkacg.com.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 287,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 265,
+    "timeDay": 265,
+    "timeWeek": 265,
+    "timeMonth": 265,
+    "timeYear": 265,
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   },
   {
     "name": "Jellyfin",
@@ -218,18 +222,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/video.mkacg.com.ico",
     "slug": "jellyfin",
     "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "94.28%",
+    "uptimeDay": "94.28%",
+    "uptimeWeek": "94.28%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "94.28%",
     "time": 437,
     "timeDay": 437,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-02-26": 0
+      "2024-02-26": 11
     }
   },
   {
@@ -238,18 +242,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bt.justforlxz.com.ico",
     "slug": "q-bittorrent",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "94.31%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "94.31%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "94.31%",
     "time": 362,
     "timeDay": 362,
     "timeWeek": 362,
     "timeMonth": 362,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2024-02-26": 0
+      "2024-02-26": 11
     }
   },
   {
@@ -257,17 +261,19 @@
     "url": "https://autobangumi.mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/autobangumi.mkacg.com.ico",
     "slug": "auto-bangumi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 261,
-    "timeWeek": 261,
-    "timeMonth": 261,
-    "timeYear": 261,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
+    "dailyMinutesDown": {
+      "2024-02-26": 0
+    }
   }
 ]
