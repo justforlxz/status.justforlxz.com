@@ -11,6 +11,8 @@ sites:
     url: https://pan.mkacg.com
   - name: S3
     url: https://s3.mkacg.social
+  - name: Docs
+    url: https://docs.mkacg.social
   - name: Bitwarden
     url: https://bitwarden.mkacg.com
   - name: Jellyfin
