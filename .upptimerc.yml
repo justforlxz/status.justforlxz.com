@@ -7,6 +7,16 @@ sites:
     url: https://mkacg.social
   - name: Matrix
     url: https://matrix.mkacg.chat
+  - name: NextCloud
+    url: https://pan.mkacg.com
+  - name: Bitwarden
+    url: https://bitwarden.mkacg.com
+  - name: Jellyfin
+    url: https://video.mkacg.com
+  - name: qBittorrent
+    url: https://bt.justforlxz.com
+  - name: AutoBangumi
+    url: https://autobangumi.mkacg.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
