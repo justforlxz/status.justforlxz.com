@@ -1,7 +1,7 @@
 url: https://matrix.mkacg.chat
-status: up
-code: 200
-responseTime: 1199
-lastUpdated: 2024-03-24T10:29:04.171Z
+status: down
+code: 502
+responseTime: 445
+lastUpdated: 2024-03-24T11:00:35.534Z
 startTime: 2023-11-02T13:23:46.266Z
 generator: Upptime <https://github.com/upptime/upptime>
