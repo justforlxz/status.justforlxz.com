@@ -1,7 +1,7 @@
 url: https://bitwarden.mkacg.com
-status: up
-code: 200
-responseTime: 681
-lastUpdated: 2024-04-12T23:09:48.846Z
+status: down
+code: 502
+responseTime: 357
+lastUpdated: 2024-04-13T01:50:43.890Z
 startTime: 2024-02-26T03:15:51.709Z
 generator: Upptime <https://github.com/upptime/upptime>
