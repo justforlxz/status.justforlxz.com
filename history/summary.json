@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mkacg.social.ico",
     "slug": "misskey",
     "status": "up",
-    "uptime": "97.01%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "88.37%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "97.01%",
+    "uptime": "96.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "88.50%",
+    "uptimeMonth": "91.11%",
+    "uptimeYear": "96.99%",
     "time": 1116,
     "timeDay": 5307,
     "timeWeek": 2943,
     "timeMonth": 1240,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2024-05-15": 13,
       "2024-05-13": 231,
       "2024-05-12": 17,
       "2024-05-11": 149,
@@ -55,7 +54,7 @@
       "2024-03-29": 42,
       "2024-03-25": 50,
       "2024-03-24": 55,
-      "2024-03-23": 169
+      "2024-03-23": 233
     }
   },
   {
@@ -75,7 +74,7 @@
     "timeMonth": 4235,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2024-05-15": 1407,
+      "2024-05-15": 1428,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -174,19 +173,19 @@
     "url": "https://pan.mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/pan.mkacg.com.ico",
     "slug": "next-cloud",
-    "status": "down",
-    "uptime": "85.93%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "87.16%",
-    "uptimeMonth": "88.98%",
-    "uptimeYear": "85.93%",
-    "time": 1838,
-    "timeDay": 2262,
-    "timeWeek": 2515,
-    "timeMonth": 2847,
-    "timeYear": 1838,
+    "status": "up",
+    "uptime": "85.92%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "88.94%",
+    "uptimeYear": "85.92%",
+    "time": 1839,
+    "timeDay": 2320,
+    "timeWeek": 2510,
+    "timeMonth": 2844,
+    "timeYear": 1839,
     "dailyMinutesDown": {
-      "2024-05-15": 15,
+      "2024-05-15": 36,
       "2024-05-14": 22,
       "2024-05-13": 290,
       "2024-05-12": 18,
@@ -251,7 +250,7 @@
     "timeMonth": 180,
     "timeYear": 1205,
     "dailyMinutesDown": {
-      "2024-05-15": 1408,
+      "2024-05-15": 1428,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
@@ -358,9 +357,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "94.49%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "96.66%",
-    "uptimeMonth": "92.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "92.84%",
     "uptimeYear": "94.49%",
     "time": 676,
     "timeDay": 561,
@@ -368,7 +367,6 @@
     "timeMonth": 1137,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-05-15": 15,
       "2024-05-13": 255,
       "2024-05-11": 67,
       "2024-05-07": 23,
@@ -409,7 +407,7 @@
       "2024-03-24": 71,
       "2024-03-23": 189,
       "2024-03-22": 132,
-      "2024-03-21": 123
+      "2024-03-21": 146
     }
   },
   {
@@ -418,18 +416,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/video.mkacg.com.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "87.82%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "81.35%",
-    "uptimeMonth": "83.18%",
-    "uptimeYear": "87.82%",
+    "uptime": "87.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "81.50%",
+    "uptimeMonth": "83.26%",
+    "uptimeYear": "87.73%",
     "time": 723,
     "timeDay": 884,
     "timeWeek": 1198,
     "timeMonth": 1060,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2024-05-15": 15,
       "2024-05-13": 255,
       "2024-05-12": 253,
       "2024-05-11": 1357,
@@ -473,7 +470,8 @@
       "2024-03-23": 199,
       "2024-03-22": 132,
       "2024-03-21": 181,
-      "2024-03-20": 162
+      "2024-03-20": 256,
+      "2024-03-19": 29
     }
   },
   {
@@ -483,9 +481,9 @@
     "slug": "q-bittorrent",
     "status": "up",
     "uptime": "92.91%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "81.35%",
-    "uptimeMonth": "89.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "81.50%",
+    "uptimeMonth": "89.72%",
     "uptimeYear": "92.91%",
     "time": 498,
     "timeDay": 558,
@@ -493,7 +491,6 @@
     "timeMonth": 696,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2024-05-15": 15,
       "2024-05-13": 272,
       "2024-05-11": 837,
       "2024-05-10": 756,
@@ -535,7 +532,7 @@
       "2024-03-24": 71,
       "2024-03-23": 199,
       "2024-03-22": 153,
-      "2024-03-21": 119
+      "2024-03-21": 136
     }
   },
   {
@@ -544,18 +541,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/autobangumi.mkacg.com.ico",
     "slug": "auto-bangumi",
     "status": "up",
-    "uptime": "92.39%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "96.71%",
-    "uptimeMonth": "93.29%",
-    "uptimeYear": "92.39%",
+    "uptime": "92.36%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.85%",
+    "uptimeMonth": "93.33%",
+    "uptimeYear": "92.36%",
     "time": 434,
     "timeDay": 578,
     "timeWeek": 848,
     "timeMonth": 614,
     "timeYear": 434,
     "dailyMinutesDown": {
-      "2024-05-15": 15,
       "2024-05-13": 250,
       "2024-05-11": 67,
       "2024-05-07": 23,
@@ -597,7 +593,7 @@
       "2024-03-22": 132,
       "2024-03-21": 181,
       "2024-03-20": 256,
-      "2024-03-19": 49
+      "2024-03-19": 90
     }
   }
 ]
