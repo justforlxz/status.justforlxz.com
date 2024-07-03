@@ -4,19 +4,19 @@
     "url": "https://mkacg.social",
     "icon": "https://icons.duckduckgo.com/ip3/mkacg.social.ico",
     "slug": "misskey",
-    "status": "up",
-    "uptime": "96.39%",
-    "uptimeDay": "91.04%",
-    "uptimeWeek": "89.08%",
+    "status": "down",
+    "uptime": "96.41%",
+    "uptimeDay": "91.00%",
+    "uptimeWeek": "89.07%",
     "uptimeMonth": "86.27%",
-    "uptimeYear": "96.39%",
+    "uptimeYear": "96.41%",
     "time": 1203,
     "timeDay": 1962,
     "timeWeek": 1245,
     "timeMonth": 1672,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-07-03": 57,
+      "2024-07-03": 58,
       "2024-07-02": 72,
       "2024-07-01": 119,
       "2024-06-30": 56,
@@ -68,7 +68,7 @@
       "2024-04-15": 385,
       "2024-04-13": 840,
       "2024-04-12": 21,
-      "2024-04-11": 392
+      "2024-04-11": 329
     }
   },
   {
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2024-07-03": 269,
+      "2024-07-03": 282,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -248,7 +248,7 @@
     "timeMonth": 0,
     "timeYear": 1922,
     "dailyMinutesDown": {
-      "2024-07-03": 270,
+      "2024-07-03": 282,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -341,7 +341,7 @@
     "timeMonth": 178,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2024-07-03": 270,
+      "2024-07-03": 282,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -639,7 +639,7 @@
     "uptime": "84.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "52.69%",
+    "uptimeMonth": "52.66%",
     "uptimeYear": "84.58%",
     "time": 503,
     "timeDay": 310,
@@ -647,7 +647,7 @@
     "timeMonth": 465,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2024-07-03": 270,
+      "2024-07-03": 282,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
@@ -716,7 +716,7 @@
     "uptime": "73.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.74%",
+    "uptimeMonth": "7.71%",
     "uptimeYear": "73.19%",
     "time": 443,
     "timeDay": 0,
@@ -724,7 +724,7 @@
     "timeMonth": 360,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2024-07-03": 270,
+      "2024-07-03": 282,
       "2024-07-02": 1440,
       "2024-07-01": 1440,
       "2024-06-30": 1440,
