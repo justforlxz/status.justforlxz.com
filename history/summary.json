@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1195,
     "dailyMinutesDown": {
-      "2024-08-21": 680,
+      "2024-08-21": 690,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -131,7 +131,7 @@
     "timeMonth": 0,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2024-08-21": 680,
+      "2024-08-21": 690,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 1922,
     "dailyMinutesDown": {
-      "2024-08-21": 680,
+      "2024-08-21": 690,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -482,7 +482,7 @@
     "timeMonth": 0,
     "timeYear": 911,
     "dailyMinutesDown": {
-      "2024-08-21": 680,
+      "2024-08-21": 690,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -679,7 +679,7 @@
     "timeMonth": 0,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-08-21": 680,
+      "2024-08-21": 690,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
@@ -725,17 +725,17 @@
     "url": "https://bitwarden.mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.mkacg.com.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "95.99%",
-    "uptimeDay": "67.29%",
+    "status": "down",
+    "uptime": "96.00%",
+    "uptimeDay": "67.26%",
     "uptimeWeek": "89.55%",
-    "uptimeMonth": "89.40%",
-    "uptimeYear": "95.99%",
-    "time": 947,
-    "timeDay": 760,
-    "timeWeek": 909,
-    "timeMonth": 1245,
-    "timeYear": 947,
+    "uptimeMonth": "89.42%",
+    "uptimeYear": "96.00%",
+    "time": 946,
+    "timeDay": 743,
+    "timeWeek": 903,
+    "timeMonth": 1241,
+    "timeYear": 946,
     "dailyMinutesDown": {
       "2024-08-21": 267,
       "2024-08-20": 250,
@@ -781,8 +781,7 @@
       "2024-06-13": 58,
       "2024-06-12": 882,
       "2024-06-11": 1440,
-      "2024-06-10": 576,
-      "2024-06-09": 27
+      "2024-06-10": 576
     }
   },
   {
@@ -790,16 +789,16 @@
     "url": "https://video.mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/video.mkacg.com.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "96.20%",
-    "uptimeDay": "67.27%",
+    "status": "down",
+    "uptime": "97.31%",
+    "uptimeDay": "67.23%",
     "uptimeWeek": "89.24%",
-    "uptimeMonth": "89.70%",
-    "uptimeYear": "96.20%",
+    "uptimeMonth": "89.72%",
+    "uptimeYear": "97.31%",
     "time": 849,
-    "timeDay": 1019,
-    "timeWeek": 871,
-    "timeMonth": 1067,
+    "timeDay": 994,
+    "timeWeek": 864,
+    "timeMonth": 1063,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2024-08-21": 268,
@@ -848,9 +847,7 @@
       "2024-06-24": 22,
       "2024-06-22": 287,
       "2024-06-13": 58,
-      "2024-06-12": 882,
-      "2024-06-11": 1440,
-      "2024-06-10": 557
+      "2024-06-12": 56
     }
   },
   {
@@ -858,19 +855,19 @@
     "url": "https://bt.justforlxz.com",
     "icon": "https://icons.duckduckgo.com/ip3/bt.justforlxz.com.ico",
     "slug": "q-bittorrent",
-    "status": "up",
-    "uptime": "89.82%",
-    "uptimeDay": "67.25%",
-    "uptimeWeek": "89.45%",
-    "uptimeMonth": "89.75%",
-    "uptimeYear": "89.82%",
+    "status": "down",
+    "uptime": "89.89%",
+    "uptimeDay": "67.22%",
+    "uptimeWeek": "89.44%",
+    "uptimeMonth": "89.77%",
+    "uptimeYear": "89.89%",
     "time": 553,
-    "timeDay": 407,
-    "timeWeek": 462,
-    "timeMonth": 613,
+    "timeDay": 399,
+    "timeWeek": 459,
+    "timeMonth": 611,
     "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-08-21": 268,
+      "2024-08-21": 269,
       "2024-08-20": 250,
       "2024-08-19": 155,
       "2024-08-18": 92,
@@ -924,7 +921,7 @@
       "2024-06-06": 47,
       "2024-06-05": 474,
       "2024-06-04": 688,
-      "2024-06-03": 296
+      "2024-06-03": 93
     }
   },
   {
@@ -944,7 +941,7 @@
     "timeMonth": 0,
     "timeYear": 443,
     "dailyMinutesDown": {
-      "2024-08-21": 680,
+      "2024-08-21": 690,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
