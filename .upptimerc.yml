@@ -3,29 +3,21 @@ owner: justforlxz # Your GitHub organization or username, where this repository 
 repo: status.mkacg.com # The name of this repository
 
 sites:
-  - name: Misskey
-    url: https://mkacg.social
-  - name: Matrix
-    url: https://matrix.mkacg.chat
-  - name: NextCloud
-    url: https://pan.mkacg.com
-  - name: S3
-    url: https://s3.mkacg.social
-  - name: Docs
-    url: https://docs.mkacg.social
   - name: Bitwarden
     url: https://bitwarden.mkacg.com
-  - name: Jellyfin
-    url: https://video.mkacg.com
-  - name: qBittorrent
-    url: https://bt.justforlxz.com
-  - name: AutoBangumi
-    url: https://autobangumi.mkacg.com
+  - name: Misskey
+    url: https://mkacg.com
+  - name: Matrix
+    url: https://matrix.mkacg.com:4433
+  - name: S3
+    url: https://file.mkacg.com
+  - name: Docs
+    url: https://docs.mkacg.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.mkacg.com
+  #cname: status.mkacg.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Mkacg
