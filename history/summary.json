@@ -4,16 +4,16 @@
     "url": "https://bitwarden.mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.mkacg.com.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "88.07%",
-    "uptimeMonth": "93.09%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "88.06%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "98.90%",
     "time": 893,
-    "timeDay": 410,
-    "timeWeek": 597,
-    "timeMonth": 900,
+    "timeDay": 392,
+    "timeWeek": 541,
+    "timeMonth": 899,
     "timeYear": 893,
     "dailyMinutesDown": {
       "2024-09-01": 34,
@@ -37,7 +37,7 @@
       "2024-08-12": 63,
       "2024-08-10": 22,
       "2024-08-09": 16,
-      "2024-08-07": 57
+      "2024-08-07": 20
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://mkacg.com",
     "icon": "https://icons.duckduckgo.com/ip3/mkacg.com.ico",
     "slug": "misskey",
-    "status": "up",
-    "uptime": "83.18%",
-    "uptimeDay": "95.93%",
-    "uptimeWeek": "88.06%",
-    "uptimeMonth": "28.15%",
-    "uptimeYear": "83.18%",
-    "time": 1175,
-    "timeDay": 692,
-    "timeWeek": 650,
-    "timeMonth": 1044,
-    "timeYear": 1175,
+    "status": "down",
+    "uptime": "83.19%",
+    "uptimeDay": "95.89%",
+    "uptimeWeek": "88.05%",
+    "uptimeMonth": "28.20%",
+    "uptimeYear": "83.19%",
+    "time": 1174,
+    "timeDay": 651,
+    "timeWeek": 623,
+    "timeMonth": 1039,
+    "timeYear": 1174,
     "dailyMinutesDown": {
-      "2024-09-01": 34,
+      "2024-09-01": 35,
       "2024-08-31": 132,
       "2024-08-30": 103,
       "2024-08-29": 227,
@@ -134,7 +134,7 @@
       "2024-06-07": 16,
       "2024-06-05": 523,
       "2024-06-04": 689,
-      "2024-06-03": 58
+      "2024-06-03": 17
     }
   },
   {
@@ -154,7 +154,7 @@
     "timeMonth": 0,
     "timeYear": 1284,
     "dailyMinutesDown": {
-      "2024-09-01": 810,
+      "2024-09-01": 831,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -374,7 +374,7 @@
     "timeMonth": 422,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2024-09-01": 810,
+      "2024-09-01": 831,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -582,7 +582,7 @@
     "timeMonth": 0,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2024-09-01": 810,
+      "2024-09-01": 831,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
